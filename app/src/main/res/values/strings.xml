@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ContactsSampleApp</string>
+    <string name="contact_picker_btn_text">Go to contact picker activity</string>
+    <string name="pick_contact_btn_text">Pick contacts</string>
+    <string name="contact_name_text">Contact Name</string>
+    <string name="contact_placeholder">John (1234567890)</string>
 </resources>
